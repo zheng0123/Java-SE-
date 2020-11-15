@@ -1,6 +1,6 @@
-package lesson2.test;
+package lesson2;
 
-public class Test1 {
+public class Test2_3_2 {
 
 	public static void main(String[] args) {
 		System.out.println("Q1:將37攝氏度轉換為整數華氏度");
