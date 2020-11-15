@@ -1,8 +1,8 @@
-package lesson3.sup;
+package lesson3;
 
 import java.util.Scanner;
 
-public class Sup3_2_1 {
+public class Test3_2_1 {
 
 	public static void main(String[] args) {
 		System.out.println("Q1:輸入大於90顯示優等、81~90顯示良好、61~80顯示及格、60以下顯示不及格");

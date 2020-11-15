@@ -1,6 +1,6 @@
-package lesson2.sup;
+package lesson2;
 
-public class Sup2_4_2 {
+public class Test2_4_2 {
 
 	public static void main(String[] args) {
 		System.out.println("Q1:將65強制轉換成char");

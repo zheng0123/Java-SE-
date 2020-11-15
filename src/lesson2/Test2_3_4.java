@@ -1,8 +1,8 @@
-package lesson2.sup;
+package lesson2;
 
 import java.util.Scanner;
 
-public class Sup2_3_4 {
+public class Test2_3_4 {
 	public static void main(String[] args) {
 		System.out.println("Q1:身高超過1.2m需購票，試判斷身高為1m與1.5m的小朋友坐火車時是否該購票");
 		int h1=1;

@@ -1,6 +1,6 @@
-package lesson2.sup;
+package lesson2;
 
-public class Sup2_5_6 {
+public class Test2_5_6 {
 
 	public static void main(String[] args) {
 		System.out.println("Q1:a為int型別20，試輸出a>>32、a>>33、a>>1");
